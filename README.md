@@ -1,3 +1,2 @@
 # Xtown_Server
-Clicker_Game
-Yacht_Prototyping
+Clicker_Game    Yacht_Prototyping
